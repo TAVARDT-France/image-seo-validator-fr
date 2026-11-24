@@ -5,7 +5,7 @@
 
 Audit des balises alt, formats de nouvelle generation (WebP/AVIF) et dimensions pour la stabilite visuelle.
 
-Developpe et maintenu par la division d'architecture semantique et d'accessibilite de **TAVARDT France**.
+Developpe et maintenu par la division d'architecture semantique et d'accessibilite de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python image_seo_validator.py https://entreprise.fr -json
 Pour les analyses approfondies de ressources graphiques:
 
 * **Analyseur de SEO pour Images Officiel**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Accessibilite Visuelle et Performance
 
-Pour securiser vos catalogues d'images conformement aux normes Normes W3C RGAA et Recommandations SEO, contactez l'equipe de **TAVARDT France**.
+Pour securiser vos catalogues d'images conformement aux normes Normes W3C RGAA et Recommandations SEO, contactez l'equipe de **TAVARDT**.
 
 ***
 
