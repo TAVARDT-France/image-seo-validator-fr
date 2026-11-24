@@ -1,14 +1,13 @@
 # Analyseur de SEO d'Images et d'Accessibilite Visuelle
 
 [![Analyseur SEO Images](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/fr/analyseur-seo-images/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit des balises alt, formats de nouvelle generation (WebP/AVIF) et dimensions pour la stabilite visuelle.
 
-Developpe et maintenu par la division d'architecture semantique et d'accessibilite de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par la division d'architecture semantique et d'accessibilite de **TAVARDT France**.
 
----
+***
 
 ## Capacites d'Audit de SEO pour les Images
 
@@ -18,7 +17,7 @@ Developpe et maintenu par la division d'architecture semantique et d'accessibili
 * **Chargement Differe (Lazy Loading)**: Audit de l'activation de `loading="lazy"` sur les images hors ecran.
 * **Score d'Optimisation des Images**: Note technique de 0 a 100 avec synthese des recommandations.
 
----
+***
 
 ## Installation et Execution
 
@@ -33,20 +32,20 @@ python image_seo_validator.py https://entreprise.fr
 Pour generer un rapport au format structure JSON:
 
 ```bash
-python image_seo_validator.py https://entreprise.fr --json
+python image_seo_validator.py https://entreprise.fr -json
 ```
 
----
+***
 
 ## Diagnostic Complet sur le Web
 
 Pour les analyses approfondies de ressources graphiques:
 
-* **[Analyseur de SEO pour Images Officiel](https://tools.tavardt.com/fr/analyseur-seo-images/)**
+* **Analyseur de SEO pour Images Officiel**
 * **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil en Accessibilite Visuelle et Performance
 
-Pour securiser vos catalogues d'images conformement aux normes Normes W3C RGAA et Recommandations SEO, contactez l'equipe de **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour securiser vos catalogues d'images conformement aux normes Normes W3C RGAA et Recommandations SEO, contactez l'equipe de **TAVARDT France**.
