@@ -49,3 +49,7 @@ Pour les analyses approfondies de ressources graphiques:
 ## Conseil en Accessibilite Visuelle et Performance
 
 Pour securiser vos catalogues d'images conformement aux normes Normes W3C RGAA et Recommandations SEO, contactez l'equipe de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
